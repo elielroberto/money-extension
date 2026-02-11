@@ -14,3 +14,10 @@ decimal valor = 279.98M;
 int cents = valor.ToCents();
 
 // Resultado: 27998
+
+
+Este pacote foi criado com foco em aprendizado, organização de código e publicação no NuGet.
+Novas extensões podem ser adicionadas futuramente para facilitar operações financeiras.
+
+
+Já disponível no NuGet e com mais de 30 downloads !!
